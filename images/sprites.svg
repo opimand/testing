@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<symbol id="arrow-input" viewBox="0 0 13 10">
+	<path fill="#fff" d="M0 6.2L1.685 5l2.18 2.5L11.8 0 13 1.685 4.2 10l-.298-.418-.587.418z"/>
+</symbol>
+<symbol id="arrow" viewBox="0 0 57 39">
+	<path fill="#3e3d40" d="M54.657 34.858c-2.808 4.301-8.545 5.425-12.791 2.58L.835-.001l51.311 21.906c4.21 2.882 5.35 8.695 2.51 12.954z"/>
+</symbol>
+<symbol id="shape1" viewBox="0 0 84 100">
+	<path fill="#ffc815" d="M-.012 99.9c0-40.488 19.258-76.5 49.176-99.64l34.842 42.349c-18.658 14.64-28.428 31.948-28.428 57.29z"/>
+</symbol>
+<symbol id="shape2" viewBox="0 0 146 66">
+	<path fill="#a3cd3b" d="M.124 22.96C20.704 8.498 45.862-.038 73.036-.038c27.213 0 52.37 8.536 72.905 23L111.423 66c-14.684-9.917-26.297-12.204-38.387-12.204-12.056 0-26.188 4.357-38.352 12.204z"/>
+</symbol>
+<symbol id="shape3" viewBox="0 0 82 100">
+	<path fill="#0093d7" d="M34.248.26C63.366 23.401 82.04 59.412 82.04 99.9H28.053c0-25.343-10.397-43.397-27.485-57.291z"/>
+</symbol>
+</svg>
