@@ -6840,7 +6840,7 @@ body {
   margin: 0 auto;
   width: 100%;
   max-width: 660px;
-  background: #ccc url("../../images/bg.jpg") center; }
+  background: #ccc url("../images/bg.jpg") center; }
   .portfolio__wrapper {
     display: -webkit-box;
     display: -webkit-flex;
@@ -6928,7 +6928,7 @@ body {
   margin: 0 auto;
   width: 100%;
   max-width: 660px;
-  background: url("../../images/bg.jpg") center; }
+  background: url("../images/bg.jpg") center; }
   .skills__wrapper {
     padding-top: 38px;
     padding-right: 49px;
@@ -7034,7 +7034,7 @@ body {
   margin: 0 auto;
   width: 100%;
   max-width: 660px;
-  background: url("../../images/bg.jpg") center; }
+  background: url("../images/bg.jpg") center; }
   .level__wrapper {
     display: -webkit-box;
     display: -webkit-flex;
